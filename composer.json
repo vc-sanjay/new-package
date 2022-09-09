@@ -1,0 +1,17 @@
+{
+    "name": "sanjaysa/new-pakage",
+    "description": "creating new package for learning purpose",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sanjaysa\\NewPakage\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sanjay-Sagathiya",
+            "email": "sanjay.sagathiya@viitor.cloud"
+        }
+    ],
+    "require": {}
+}
